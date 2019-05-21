@@ -5,4 +5,6 @@ Don't click the same card twice!
 
 Use this link to play:
 
+https://agile-coast-43185.herokuapp.com/
+
 
